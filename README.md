@@ -7,8 +7,8 @@
 <br/>
 <a href="https://landing-page-front-seven.vercel.app/">My portfolio</a>
 <br/>
-- 💻 I'm a Front-End developer, who likes to work with JavaScript and TypeScript...
-- 🔭 I’m looking for a job ...
+- 💻 I'm a Front-End developer, who likes to work with JavaScript and TypeScript...<br/>
+- 🔭 I’m looking for a job ...<br/>
 - 🌱 I’m currently learning Spring framework...
 
 ![lucashss88's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucashss88&theme=react&hide_border=true)
