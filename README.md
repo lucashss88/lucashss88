@@ -6,11 +6,11 @@
 <br/>
 <br/>
 <a href="https://landing-page-front-seven.vercel.app/">My portfolio</a>
-<br/><br/>
+<br/>
 - 💻 I'm a Front-End developer, who likes to work with JavaScript and TypeScript...
 - 🔭 I’m looking for a job ...
 - 🌱 I’m currently learning Spring framework...
-<br/><br/>
+
 ![lucashss88's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucashss88&theme=react&hide_border=true)
 ![lucashss88's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashss88&theme=react&show_icons=true&hide_border=true)
 
