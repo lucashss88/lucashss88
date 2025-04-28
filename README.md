@@ -17,6 +17,6 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,css,html,ruby,github,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,css,html,tailwind,bootstrap,ruby,github,idea)](https://skillicons.dev)
 
 
