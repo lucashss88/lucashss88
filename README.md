@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/lucas-henrique-serrano-soares-382339248/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=linkedin&link" alt="LinkedIn">
 </a>
+My portfoil: <a href="https://landing-page-front-seven.vercel.app/"/>
 
 - 💻 I'm a Front-End developer, who likes to work with JavaScript and TypeScript...
 - 🔭 I’m looking for a job ...
