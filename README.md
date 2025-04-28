@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=linkedin&link" alt="LinkedIn">
 </a>
 <br/>
+<br/>
 <a href="https://landing-page-front-seven.vercel.app/">My portfolio</a>
+<br/>
 
 - 💻 I'm a Front-End developer, who likes to work with JavaScript and TypeScript...
 - 🔭 I’m looking for a job ...
