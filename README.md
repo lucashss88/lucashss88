@@ -1,7 +1,7 @@
 ## Hi there, my name is Lucas Henrique 👋
 
 **Junior Full Stack Developer**
-
+<br/>
 <a href="https://www.linkedin.com/in/lucas-henrique-serrano-soares-382339248/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-rounded&logo=linkedin&link" alt="LinkedIn">
 </a>
@@ -12,6 +12,7 @@
 <br/>
 <a href="https://landing-page-front-seven.vercel.app/">🔗 My portfolio</a>
 <br/>
+
 ### 👨‍💻 About Me
 
 I am a Full Stack Developer with hands-on experience in back-end projects using Node.js and front-end with React and TypeScript. Currently, I am an intern at Compass UOL and pursuing an MBA in Full Stack Development. I am always looking to apply my knowledge in modern architectures and agile methodologies to build scalable, high-performance solutions.
