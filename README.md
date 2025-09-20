@@ -27,7 +27,7 @@ I am a Full Stack Developer with hands-on experience in back-end projects using 
 |---|---|---|---|
 | • React.js | • Node.js & Express | • PostgreSQL | • Git & Github |
 | • TypeScript | • Sequelize ORM | • MySQL | • Scrum & Kanban |
-| • JavaScript | | • Prisma ORM | • Docker (basic) |
+| • JavaScript | • Prisma ORM | | • Docker (basic) |
 | • HTML5 & CSS3 | | | • AWS (Internship Program) |
 
 <br/>
